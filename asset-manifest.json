@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barco-frontend/static/css/main.f855e6bc.css",
+    "main.js": "/barco-frontend/static/js/main.0a2f8fa5.js",
+    "static/js/453.4cdcf697.chunk.js": "/barco-frontend/static/js/453.4cdcf697.chunk.js",
+    "index.html": "/barco-frontend/index.html",
+    "main.f855e6bc.css.map": "/barco-frontend/static/css/main.f855e6bc.css.map",
+    "main.0a2f8fa5.js.map": "/barco-frontend/static/js/main.0a2f8fa5.js.map",
+    "453.4cdcf697.chunk.js.map": "/barco-frontend/static/js/453.4cdcf697.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0a2f8fa5.js"
+  ]
+}
