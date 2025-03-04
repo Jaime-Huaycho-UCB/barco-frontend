@@ -5,7 +5,7 @@ function LoginPage() {
   const navigate = useNavigate();
 
   const handleLogin = (name) => {
-    localStorage.setItem("user", name); // Guardar el nombre
+    localStorage.setItem("idPersonaje", name); // Guardar el nombre
     navigate("/home"); // Redirigir a la página principal
   };
 
